@@ -9,3 +9,5 @@ Using Leaflet, I created a map that plots all the earthquakes from the dataset b
 - Also included is a legend that will provide context to the markers in relation to the map data.
 
 To see JavaScript code for map, see file labeled 'logic.js'. To access visualization, visit file labeled 'index.html', and click Go Live in bottom right corner of Visual Studio Code. This will create a screen showing the earthquake map. 
+
+<img width="1426" alt="Screenshot 2023-12-04 at 5 42 11 PM" src="https://github.com/kaylynvaldezscott/leaflet-challenge/assets/141589524/67dd6525-e07d-485f-8067-91077063152a">
